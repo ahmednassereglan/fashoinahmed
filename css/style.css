@@ -1,0 +1,147 @@
+.backg-non {
+    background: none;
+}
+
+.btnfacebg {
+    background-color: #3b5998;
+}
+
+.btngogbg {
+    background-color: #4285f4;
+}
+
+.btntwebg {
+    background-color: #1da1f2;
+}
+
+.navbg-bar {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.border-log {
+    border: 2px solid #a56fc7!important;
+}
+
+.navbg-colr {
+    background-color: #a56fc7;
+}
+
+.marleft {
+    margin-left: 50px;
+}
+
+.marleftimg {
+    margin-left: 100px;
+}
+
+.marleftdimg {
+    margin-left: 450px;
+}
+
+.border-sel {
+    border: 7px solid #000;
+}
+
+.slider-img {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.btn-bgseles {
+    background-color: #fff !important;
+    color: #a56fc7 !important;
+    border: 2px solid #a56fc7!important;
+}
+
+.btn-bgseles:hover {
+    background-color: #a56fc7!important;
+    color: #fff !important;
+}
+
+.btnmardin {
+    line-height: 30px;
+    width: 190px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    background-color: #a56fc7!important;
+    color: #fff !important;
+}
+
+.btnmardin:hover {
+    background-color: #4f0b7a1c!important;
+    border: 2px solid #a56fc7!important;
+    color: #000 !important;
+}
+
+.dispalydiv {
+    background: rgb(46, 43, 43);
+    width: 96%;
+    height: 50px;
+    margin: -55px auto;
+    cursor: pointer;
+}
+
+.dispalydiv .disleft {
+    margin-left: 40px;
+    margin-top: 2px;
+    float: left;
+}
+
+.dispalydiv .disleft span {
+    color: #fff;
+}
+
+.dispalydiv .disreight {
+    margin-right: 40px;
+    margin-top: 2px;
+    float: right;
+}
+
+.dispalydiv .disreight span {
+    color: #fff;
+}
+
+
+/* ..................................... */
+
+.marginlogin {
+    margin-left: 70px;
+    margin-top: -20px;
+}
+
+.margidnlogin {
+    margin-left: 40px;
+    margin-top: 53px;
+}
+
+.headlogin {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+/* ..................................... */
+
+.margdinlogin {
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+.margiddnlogin {
+    margin-left: 40px;
+    margin-top: 200px;
+}
+
+.headlodgin {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.widt-inp {
+    width: 145px;
+    display: inline-block;
+}
